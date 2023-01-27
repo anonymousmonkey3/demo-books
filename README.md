@@ -85,3 +85,4 @@ sed -i "s/frontend.example.com/kmyhost.myapp.com/g" ingress.yaml
 
 kubectl apply -k .'
 ```
+Edited: ionut 1
